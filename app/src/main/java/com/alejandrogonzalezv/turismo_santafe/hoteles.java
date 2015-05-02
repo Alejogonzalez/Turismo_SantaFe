@@ -21,7 +21,10 @@ public class hoteles extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hoteles);
         final Spinner listah = (Spinner) findViewById(R.id.listahoteles);
-
+        final ImageView img1 = (ImageView) findViewById(R.id.img1);
+        final ImageView img2 = (ImageView) findViewById(R.id.img2);
+        final ImageView titulo = (ImageView)findViewById(R.id.imgtitulo);
+        final TextView info = (TextView) findViewById(R.id.txinfo);
 
 
 
@@ -39,10 +42,16 @@ public class hoteles extends ActionBarActivity {
                 String hotel = String.valueOf(listah.getSelectedItem());
 
                 if(position == 0){
-
+                   titulo.setImageResource(R.drawable.hotel1titulo);
+                   img1.setImageResource(R.drawable.hotel1img1);
+                   img2.setImageResource(R.drawable.hotel1img2);
+                   info.setText(getResources().getString(R.string.hotel1));
                 }
                 if(position==1){
-
+                    titulo.setImageResource(R.drawable.hotel2titulo);
+                    img1.setImageResource(R.drawable.hotel2img1);
+                    img2.setImageResource(R.drawable.hotel2img2);
+                    info.setText(getResources().getString(R.string.hotel2));
                 }
                 if(position==2){
 

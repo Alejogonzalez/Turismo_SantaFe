@@ -10,5 +10,26 @@
         <item>San Angel</item>
         <item>Portón del Sol</item>
     </string-array>
-    <string name="hotel1">"APARTA HOTEL EL PASO \nCra. 10 # 16-32 Llano de Bolívar\nTeléfonos: (4)853 27 51 \nMóvil: 314 735 34 54 \nhotelensantafedeantioquia\n@hotmail.com"</string>
+    <string name="hotel1">APARTA HOTEL EL PASO \n
+        Cra. 10 # 16-32 \nLlano de Bolívar\n
+        Teléfonos: (4)853 27 51 \n
+        Móvil: 314 735 34 54 \n
+        hotelensantafedeantioquia\n@hotmail.com\n
+        Solárium Jacuzzi
+        Bar y Licor nacional
+        Wi - Fi Parqueadero
+        Habitaciones dotadas de aire acondicionado y TV por cable Zona de bronceo Baño independiente</string>
+    <string name="hotel2">
+        100 metros después de la “Y” de la entrada a
+        Santa Fe de Antioquia - Colombia\n
+        Tel. (57-4) 853 15 73\n
+        Cel. 312 287 23 84
+        www.fincahotelsanangel.com\n
+        Habitaciones con aire acondicionado
+        Piscina Turco
+        Spa Kiosko con hamacas
+        Restaurante Parrilla - Bar
+        Eventos Empresariales, Sociales y Familiares
+        Salón de Juegos Parqueadero Zona Wi-Fi
+    </string>
 </resources>
