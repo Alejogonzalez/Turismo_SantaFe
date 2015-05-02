@@ -1,6 +1,7 @@
 package com.alejandrogonzalezv.turismo_santafe;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -87,6 +88,11 @@ public class hoteles extends ActionBarActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            return true;
+        }
+        if(id==R.id.actaboutus){
+            Intent a = new Intent(this,AboutUs.class);
+            startActivity(a);
             return true;
         }
         return super.onOptionsItemSelected(item);

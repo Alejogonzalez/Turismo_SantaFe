@@ -20,6 +20,11 @@
             android:name=".hoteles"
             android:label="@string/title_activity_hoteles" >
         </activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="@string/title_activity_about_us"
+            android:theme="@style/Base.Theme.AppCompat.Dialog" >
+        </activity>
     </application>
 
 </manifest>
