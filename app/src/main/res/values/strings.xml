@@ -7,6 +7,7 @@
     <string name="hotels">Hoteles</string>
     <string-array name="planets_array">
         <item>El Paso</item>
-        <item>Hotel 2</item>
+        <item>San Angel</item>
+        <item>Portón del Sol</item>
     </string-array>
 </resources>

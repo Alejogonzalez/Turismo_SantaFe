@@ -38,11 +38,14 @@ public class hoteles extends ActionBarActivity {
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 String hotel = String.valueOf(listah.getSelectedItem());
 
-                if (position == 0){
+                if(position == 0){
                     imagen.setImageResource(R.drawable.hotel1png);
                 }
                 if(position==1){
-
+                    imagen.setImageResource(R.drawable.hotel2png);
+                }
+                if(position==2){
+                    imagen.setImageResource(R.drawable.hotel3png);
                 }
             }
 

@@ -4,19 +4,33 @@
     android:layout_height="match_parent"
     tools:context="com.alejandrogonzalezv.turismo_santafe.hoteles"
     android:orientation="vertical">
-
-    <Spinner
+    <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:id="@+id/listahoteles"
-        android:layout_weight="25">
+        android:layout_weight="25"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="@string/hotels"/>
+        <Spinner
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/listahoteles"
+            android:layout_weight="1">
 
         </Spinner>
-    <ImageView
+        </LinearLayout>
+    <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:id="@+id/imghotel"
-        android:src="@drawable/hotel1png"
-        android:layout_weight="1"/>
+        android:layout_weight="1">
+
+
+
+
+        </LinearLayout>
+
 
 </LinearLayout>
