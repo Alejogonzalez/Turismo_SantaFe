@@ -21,7 +21,7 @@ public class hoteles extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hoteles);
         final Spinner listah = (Spinner) findViewById(R.id.listahoteles);
-        final ImageView imagen = (ImageView) findViewById(R.id.imghotel);
+
 
 
 
@@ -39,13 +39,13 @@ public class hoteles extends ActionBarActivity {
                 String hotel = String.valueOf(listah.getSelectedItem());
 
                 if(position == 0){
-                    imagen.setImageResource(R.drawable.hotel1png);
+
                 }
                 if(position==1){
-                    imagen.setImageResource(R.drawable.hotel2png);
+
                 }
                 if(position==2){
-                    imagen.setImageResource(R.drawable.hotel3png);
+
                 }
             }
 
