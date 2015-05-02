@@ -54,7 +54,10 @@ public class hoteles extends ActionBarActivity {
                     info.setText(getResources().getString(R.string.hotel2));
                 }
                 if(position==2){
-
+                    titulo.setImageResource(R.drawable.hotel3titulo);
+                    img1.setImageResource(R.drawable.hotel3img1);
+                    img2.setImageResource(R.drawable.hotel3img2);
+                    info.setText(getResources().getString(R.string.hotel3));
                 }
             }
 
