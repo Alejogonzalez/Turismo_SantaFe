@@ -1,14 +1,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.alejandrogonzalezv.turismo_santafe.hoteles">
+    tools:context="com.alejandrogonzalezv.turismo_santafe.bares">
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 
-
-    <item android:id="@+id/actbares"
-        android:title="@string/title_activity_bares"
-        />
+    <item android:id="@+id/acthoteles"
+        android:title="@string/hotels"/>
 
     <item android:id="@+id/actaboutus"
         android:title="@string/about"

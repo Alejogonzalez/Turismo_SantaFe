@@ -12,6 +12,11 @@
         <item>San Angel</item>
         <item>Portón del Sol</item>
     </string-array>
+    <string-array name="bares_array">
+        <item>Mariangel</item>
+        <item>Carnes y Carnes</item>
+        <item>Lago de los Patos</item>
+    </string-array>
     <string name="hotel1">APARTA HOTEL EL PASO \n
         Cra. 10 # 16-32 \nLlano de Bolívar\n
         Teléfonos: (4)853 27 51 \n
@@ -51,4 +56,48 @@
         Servicio de Bicicletas
     </string>
     <string name="title_activity_about_us">Acerda de</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="bar1">
+        Santa Fe De Antioquia, Colombia.\n
+        Contiguo al Templo San Martín de Porres\n
+        Sector Llano de Bolívar\n
+        Cel. 321 817 30 28\n
+        -Solomo\n
+        -Cañón de Cerdo\n
+        -Chuleta de Cerdo\n
+        -Costillas\n
+        -Punta de Anca\n
+        -Pollo a la Plancha\n
+        -Jugos Naturales, gaseosas Licores Nacionales e Importados
+    </string>
+    <string name="bar2">
+        Parque Principal\n
+        Santa Fe de Antioquia\n
+        Tel. (57-4) 853 15 89\n
+        Cel. 313 692 96 95\n
+        -Langostinos al ajillo\n
+        -Espaghetti con pollo\n
+        -Pincho mixto\n
+        -Picadas\n
+        -Bebidas\n
+        -Filet mignon\n
+        -Cerdo en diferentes salsas\n
+        -Trucha al ajillo\n
+        -Salmón con langostinos\n
+        -Robalo a la milanesa
+    </string>
+    <string name="bar3">
+       Santa Fe De Antioquia.\n
+       Calle 13 La Variante con Carrera 17\n
+       Celular: 314 641 51 98\n
+       Carnes al Carbón.\n
+       Solomo.\n
+       Cañón de Cerdo.\n
+       Chuleta de Cerdo.\n
+       Costillas BBQ.\n
+       Churrasco.\n
+       Punta de Anca.\n
+       Mixta.\n
+       Bebidas.\n
+    </string>
 </resources>

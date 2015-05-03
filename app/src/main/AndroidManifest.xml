@@ -25,6 +25,10 @@
             android:label="@string/title_activity_about_us"
             android:theme="@style/Base.Theme.AppCompat.Dialog" >
         </activity>
+        <activity
+            android:name=".bares"
+            android:label="@string/title_activity_bares" >
+        </activity>
     </application>
 
 </manifest>

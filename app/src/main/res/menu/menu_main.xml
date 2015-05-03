@@ -6,6 +6,9 @@
 
     <item android:id="@+id/acthoteles"
         android:title="@string/hotels"/>
+    <item android:id="@+id/actbares"
+        android:title="@string/title_activity_bares"
+        />
     <item android:id="@+id/actaboutus"
         android:title="@string/about"
         />
