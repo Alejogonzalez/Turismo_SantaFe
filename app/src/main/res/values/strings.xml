@@ -3,6 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="mainact">Principal</string>
     <string name="title_activity_hoteles">Hoteles</string>
     <string name="hotels">Hoteles</string>
     <string name="about">Acerda de</string>
