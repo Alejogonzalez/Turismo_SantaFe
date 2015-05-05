@@ -99,6 +99,11 @@ public class bares extends ActionBarActivity {
             startActivity(m);
             return true;
         }
+        if(id==R.id.actturism){
+            Intent t = new Intent(this,Turismo.class);
+            startActivity(t);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }

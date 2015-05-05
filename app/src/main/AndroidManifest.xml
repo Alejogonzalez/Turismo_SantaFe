@@ -29,6 +29,10 @@
             android:name=".bares"
             android:label="@string/title_activity_bares" >
         </activity>
+        <activity
+            android:name=".Turismo"
+            android:label="@string/title_activity_turismo" >
+        </activity>
     </application>
 
 </manifest>

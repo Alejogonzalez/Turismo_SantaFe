@@ -49,6 +49,11 @@ public class MainActivity extends ActionBarActivity {
             startActivity(b);
             return true;
         }
+        if(id==R.id.actturism){
+            Intent t = new Intent(this,Turismo.class);
+            startActivity(t);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }

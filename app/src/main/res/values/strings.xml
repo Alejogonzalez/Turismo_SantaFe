@@ -18,6 +18,11 @@
         <item>Carnes y Carnes</item>
         <item>Lago de los Patos</item>
     </string-array>
+    <string-array name="turis_array">
+        <item>Puente de Occidente</item>
+        <item>Religioso</item>
+        <item>Extremo</item>
+    </string-array>
     <string name="hotel1">APARTA HOTEL EL PASO \n
         Cra. 10 # 16-32 \nLlano de Bolívar\n
         Teléfonos: (4)853 27 51 \n
@@ -100,5 +105,35 @@
        Punta de Anca.\n
        Mixta.\n
        Bebidas.\n
+    </string>
+    <string name="title_activity_turismo">Turismo</string>
+     <string name="turis1">
+       Una construcción de 8 años iniciada en 1887 y finalizada en 1895 y diseñada por José María Villa, es un puente colgante con 291 metros de longitud. Este comunica a Santa Fe de Antioquia con Olaya, pasando por encima del río Cauca. Fué declarado monumento histórico nacional en el año 1978.\n
+      La obra se le encargo al ingeniero Antioqueño José Maria Villa.
+    </string>
+    <string name="turis2">
+        La arquitectura que ha sobrevivido a través de los años da a Santa Fe de Antioquia el aspecto de una ciudad “estancada” en la época colonial, por lo que la ciudad misma fue declarada monumento Nacional.
+        Construcciones de los siglos XVI, XVII y XVIII\n
+        Iglesias de los siglos XVII y XVIII.\n
+       - Catedral Basílica de la Inmaculada Concepción\n
+        -Iglesia de Santa Bárbara\n
+        -Nuestra Señora de Chiquinquirá\n
+        -Iglesia de Jesús Nazareno\n
+        -Iglesia de San Pedro Claver\n
+    </string>
+    <string name="turis3">
+        Oficina #2 Hotel Mariscal Robledo\n
+        Santa Fe de Antioquia\n
+        Celeni María Oquendo\n
+        Tel. 853 19 46\n
+        Cel. 313 667 81 50\n
+        www.naturaventura.com.co\n
+        -CANOTAJE \n
+        -CABALGATAS\n
+        -CAMINATA \n
+        -RECORRIDO EN CHIVA\n
+        -RAFTING\n
+        -CAMINATAS\n
+        -RUTAS ECOTURISTICAS\n
     </string>
 </resources>

@@ -7,6 +7,10 @@
     <item android:id="@+id/acthoteles"
         android:title="@string/hotels"/>
 
+    <item android:id="@+id/actturism"
+        android:title="@string/title_activity_turismo"
+        />
+
     <item android:id="@+id/actaboutus"
         android:title="@string/about"
         />
