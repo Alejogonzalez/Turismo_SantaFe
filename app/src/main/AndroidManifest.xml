@@ -33,6 +33,10 @@
             android:name=".Turismo"
             android:label="@string/title_activity_turismo" >
         </activity>
+        <activity
+            android:name=".informacion"
+            android:label="@string/title_activity_informacion" >
+        </activity>
     </application>
 
 </manifest>

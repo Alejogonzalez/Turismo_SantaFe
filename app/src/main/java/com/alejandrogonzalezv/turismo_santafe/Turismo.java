@@ -103,6 +103,11 @@ public class Turismo extends ActionBarActivity {
             startActivity(m);
             return true;
         }
+        if(id==R.id.actinfo){
+            Intent t = new Intent(this,informacion.class);
+            startActivity(t);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }

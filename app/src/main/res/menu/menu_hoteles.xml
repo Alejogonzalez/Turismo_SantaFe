@@ -11,6 +11,9 @@
     <item android:id="@+id/actturism"
         android:title="@string/title_activity_turismo"
         />
+    <item android:id="@+id/actinfo"
+        android:title="@string/title_activity_informacion"
+        />
     <item android:id="@+id/actaboutus"
         android:title="@string/about"
         />

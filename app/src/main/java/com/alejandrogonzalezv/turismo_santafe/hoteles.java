@@ -108,6 +108,11 @@ public class hoteles extends ActionBarActivity {
             startActivity(t);
             return true;
         }
+        if(id==R.id.actinfo){
+            Intent t = new Intent(this,informacion.class);
+            startActivity(t);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }

@@ -136,4 +136,5 @@
         -CAMINATAS\n
         -RUTAS ECOTURISTICAS\n
     </string>
+    <string name="title_activity_informacion">Información</string>
 </resources>
