@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Santa Fe de Antioquia APP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainact">Main</string>
+    <string name="title_activity_hoteles">Hotels</string>
+    <string name="hotels">Hotels</string>
+    <string name="about">About us</string>
+    <string name="aboutext">Tourism Santa Fe de Antioquia\nDeveloped by Alejandro González Varela</string>
+    <string-array name="planets_array">
+        <item>El Paso</item>
+        <item>San Angel</item>
+        <item>Portón del Sol</item>
+    </string-array>
+    <string-array name="bares_array">
+        <item>Mariangel</item>
+        <item>Carnes y Carnes</item>
+        <item>Lago de los Patos</item>
+    </string-array>
+    <string-array name="turis_array">
+        <item>West Bridge</item>
+        <item>Religious</item>
+        <item>Extreme Sports</item>
+    </string-array>
+    <string name="hotel1">HOTEL EL PASO\n
+        Cra. 10 # 16-32\nLlano de Bolívar\n
+        Telephone: (4)853 27 51\n
+        Cellphone: 314 735 34 54\n
+        hotelensantafedeantioquia\n@hotmail.com\n
+        Solarium Jacuzzi
+         Bar and National Liquor
+         Wi - Fi, Parking
+         Rooms with air conditioning and cable TV, tanning area, separate bathroom</string>
+    <string name="hotel2">
+        100 meters after the "Y" entry to
+         Santa Fe de Antioquia - Colombia\n
+         Tel. (57-4) 853 15 73\n
+         Cel. 312 287 23 84
+         www.fincahotelsanangel.com\n
+         Air conditioning
+         Turkish pool
+         Spa kiosk with hammocks
+         Grill Restaurant - Bar
+         Business, Social and Family Events
+         Game Room parking Wi-Fi Zone
+    </string>
+    <string name="hotel3">
+      Paso Real \n
+         Santa Fe de Antioquia - Colombia\n
+         Tel. (57-4) 448 35 10\n
+         Cel. 311 336 13 34\n
+         www.portondelsol.com\n
+         Tanning areas inside and outside the water
+         2 jacuzzis Bar in water
+         Turkish Bar Spa nursery dog
+         Horses Bar - Restaurant
+         playground
+         Game Room
+         Playground
+         Football and volleyball courts
+         Bicycle service
+    </string>
+    <string name="title_activity_about_us">About us</string>
+    <string name="title_activity_bares">Bars</string>
+    <string name="bar1">
+       Santa Fe de Antioquia, Colombia.\n
+         Temple San Martin de Porres adjacent\n
+         Bolivar Sector Llano\n
+         Cel. 321 817 30 28\n
+         - Solomo\n
+         - Hog Canyon\n
+         - Pork Chop\n
+         - Ribs\n
+         - Thurl\n
+         - Grilled Chicken\n
+         - Natural Juices, soda local and imported liquors
+    </string>
+    <string name="bar2">
+        Home Park \n
+         Santa Fe de Antioquia\n
+         Tel. (57-4) 853 15 89\n
+         Cel. 313 692 96 95\n
+         - Prawns with garlic\n
+         - Spaghetti with chicken\n
+         - Mixed skewer\n
+         - Chopped\n
+         - Beverages\n
+         - Filet mignon\n
+         - Pig in different sauces\n
+         - Trout with garlic\n
+         - Salmon with prawns\n
+         - Robalo Milanese
+    </string>
+    <string name="bar3">
+       Santa Fe de Antioquia.\n
+        Alternative Calle 13 with Carrera 17\n
+        Phone: 314 641 51 98\n
+        Charcoal Meat.\n
+        Solomo.\n
+        Pork barrel.\n
+        Pork Chop.\n
+        BBQ ribs.\n
+        Flank steak.\n
+        Thurl.\n
+        Mixed.\n
+        Beverages. \n
+    </string>
+    <string name="title_activity_turismo">Tourism</string>
+     <string name="turis1">
+       An 8-year construction started in 1887 and completed in 1895 and designed by Jose Maria Villa, is a suspension bridge 291 meters long. This communicates to Santa Fe de Antioquia Olaya, bypassing the Cauca River. It was declared a national historic monument in 1978. \ n
+    </string>
+    <string name="turis2">
+        The architecture that has survived through the years gives Santa Fe de Antioquia city the appearance of a "stagnant" in colonial times, so that the city itself was declared a national monument.
+         Building from the XVI, XVII and XVIII \n
+         Churches of the seventeenth and eighteenth centuries. \n
+         - Cathedral of the Immaculate Conception \n
+         - Church of Santa Barbara \n
+         - Our Lady of Chiquinquirá \n
+         - Church of Jesus Nazareno \n
+         - Church of San Pedro Claver \n
+    </string>
+    <string name="turis3">
+       Office # 2 Hotel Mariscal Robledo \n
+         Santa Fe de Antioquia \n
+         Celeni Maria Oquendo \n
+         Tel. 853 19 46 \n
+         Cel. 313 667 81 50 \n
+         www.naturaventura.com.co \n
+         - BOATING \n
+         - RIDING \n
+         - WALK \n
+         - TRAVEL IN CHIVA \n
+         - RAFTING \n
+         - HIKES \n
+         - Ecotourism routes \n
+    </string>
+    <string name="title_activity_informacion">Information</string>
+</resources>
